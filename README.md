@@ -1,4 +1,4 @@
-Role Name
+Wordpress
 =========
 This role install and configure specific wordpress version
 
