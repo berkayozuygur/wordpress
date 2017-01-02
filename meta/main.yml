@@ -1,0 +1,17 @@
+galaxy_info:
+  author: "Berkay Ozuygur"
+  description: Ansible playbook for install wordpress
+  license: GPLv2
+  min_ansible_version: 1.2
+  platforms:
+  - name: Ubuntu
+    versions:
+    - trusty
+    - xenial
+  categories:
+   - wordpress
+   - system
+  galaxy_tags:
+   - wordpress
+   - system
+dependencies: []

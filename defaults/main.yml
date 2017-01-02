@@ -1,0 +1,9 @@
+---
+www_directory: /var/www/test.com
+wp_version: 4.6.1
+db_name: yourdb_name
+db_username: yourdb_user
+db_pass: yourdb_pass_here
+db_endpoint: yourdb_endpoint
+owner_user: www-data
+owner_group: www-data
